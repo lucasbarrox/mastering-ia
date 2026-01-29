@@ -1,0 +1,7 @@
+id_cliente,nome,renda_mensal,idade,score_credito
+101,Ana,5000,25.0,850.0
+102,Bruno,3200,30.0,
+103,Carlos,,22.0,400.0
+104,,4100,45.0,750.0
+105,Eduarda,ERROR,,600.0
+106,Felipe,6000,35.0,900.0
