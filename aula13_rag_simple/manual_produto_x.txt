@@ -1,0 +1,8 @@
+=== MANUAL TÉCNICO DO PRODUTO X-2000 (CONFIDENCIAL) ===
+
+O Produto X-2000 é um reator de fusão a frio doméstico.
+Para ligar, o usuário deve girar a chave mestra para a direita e pressionar o botão azul por 3 segundos.
+NUNCA pressione o botão vermelho enquanto a luz verde estiver piscando. Isso causa uma explosão de nível 4.
+A manutenção deve ser feita a cada 500 horas de uso, trocando o filtro de plasma (Código da peça: FLT-99).
+O suporte técnico atende pelo telefone 0800-FUSAO-FRIO.
+O CEO da empresa se chama Dr. Lucas Barrox e fundou a companhia em 2024.
